@@ -13,6 +13,8 @@ export default function Home() {
       <WhyHireNest />
       <HowItWorks />
       <Services />
+      <FAQ />
+      <Contact />
       <main>
       </main>
       </> 
