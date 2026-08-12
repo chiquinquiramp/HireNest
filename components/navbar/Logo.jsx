@@ -1,7 +1,7 @@
 
 function Logo() {
     return (
-        <h1>HireNest</h1>
+        <a href="/">HireNest</a>
 );
 }
 export default Logo;
