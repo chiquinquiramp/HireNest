@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# HireNest
 
-## Getting Started
+**Trusted help for everyday life.**
 
-First, run the development server:
+HireNest is a marketplace designed to connect families with trusted, verified domestic service providers in Miami, Florida.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The platform is being built to make finding reliable help for everyday needs easier, safer, and more transparent.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## The Problem
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Finding trustworthy help for childcare, housekeeping, senior care, and other household services can be time-consuming and stressful.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Families often have to rely on recommendations, scattered platforms, or incomplete information when looking for someone they can trust.
 
-## Learn More
+HireNest aims to bring the process into one place.
 
-To learn more about Next.js, take a look at the following resources:
+## What HireNest Offers
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Verified service providers
+* Search by location
+* Ratings and reviews
+* Secure payments
+* Direct communication
+* Human support
+* Multiple household services in one platform
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Services
 
-## Deploy on Vercel
+* Childcare
+* Housekeeping
+* Senior Care
+* Personal Assistance
+* Home Maintenance
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Tech Stack
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Git & GitHub
+
+## Project Status
+
+🚧 **In development**
+
+HireNest is currently being developed as a full-stack web application. The current focus is building the frontend structure, user experience, and core functionality.
+
+Future development will include authentication, provider profiles, search and filtering, payments, messaging, and backend/database integration.
+
+## Goals
+
+The goal of HireNest is to create a reliable platform where families can find qualified help while service providers can connect with families looking for their services.
+
+## Development
+
+This project is being built from the ground up while exploring modern web development practices with React and Next.js.
+
+More features and documentation will be added as development progresses.
+
