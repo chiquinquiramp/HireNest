@@ -5,3 +5,4 @@ function HeroVisual () {
         </div>
     )
 }
+export default HeroVisual;
