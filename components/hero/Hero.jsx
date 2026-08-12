@@ -1,4 +1,5 @@
 import TrustIndicators from "./TrustIndicators";
+import HeroVisual from "./HeroVisual";
 
 function Hero () {
     return (
