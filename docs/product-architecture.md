@@ -1,7 +1,7 @@
 # Hirenest Product Architecture
 ## Overview 
 
-HireNest is a verified domestic staffinf Marketplace connecting families with trusted service providers.
+HireNest is a verified domestic staffing Marketplace connecting families with trusted service providers.
 
 ## Users 
 
