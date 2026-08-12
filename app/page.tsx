@@ -3,6 +3,8 @@ import Hero from "@/components/hero/Hero";
 import WhyHireNest from "@/components/why-hirenest/WhyHireNest";
 import HowItWorks from "@/components/how-it-works/HowItWorks";
 import Services from "@/components/services/Services";
+import FAQ from "@/components/faq/FAQ";
+import Contact from "@/components/contact/Contact";
 
 export default function Home() {
   return (
