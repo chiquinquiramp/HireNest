@@ -2,7 +2,7 @@ import Link from "next/link";
 
 function Logo() {
     return (
-        <a href="/">HireNest</a>
+        <Link href="/">HireNest</Link>
 );
 }
 export default Logo;
