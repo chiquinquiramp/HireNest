@@ -9,7 +9,7 @@ function Services () {
         { title:"Senior Care",
           description:""
         },
-        { title:"Personal Assistence",
+        { title:"Personal Assistance",
           description:""
         },
         { title: "Home Maintenance",
