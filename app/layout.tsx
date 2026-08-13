@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "HireNest - Trusted Help for EveryDay Life",
+  title: "EDENEST - Where trust finds the right people.",
   description: "Find trusted, verified help for everyday life.",
 };
 
