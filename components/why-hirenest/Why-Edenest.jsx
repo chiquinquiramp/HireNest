@@ -1,5 +1,5 @@
 
-function WhyHirenest () {
+function WhyEdeNest () {
 
     const reasons = [
         {
@@ -22,4 +22,4 @@ function WhyHirenest () {
     );
 }
 
-export default WhyHirenest;
+export default WhyEdenest;
