@@ -1,6 +1,6 @@
 import Navbar from "@/components/navbar/navbar";
 import Hero from "@/components/hero/Hero";
-import WhyHireNest from "@/components/why-hirenest/WhyHireNest";
+import WhyEdenest from "@/components/why-hirenest/WhyEdenest";
 import HowItWorks from "@/components/how-it-works/HowItWorks";
 import Services from "@/components/services/Services";
 import FAQ from "@/components/faq/FAQ";
@@ -12,7 +12,7 @@ export default function Home() {
       <> 
       <Navbar />
       <Hero />
-      <WhyHireNest />
+      <WhyEdenest />
       <HowItWorks />
       <Services />
       <FAQ />
