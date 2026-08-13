@@ -50,7 +50,7 @@ Future development will include authentication, provider profiles, search and fi
 
 ## Goals
 
-The goal of HireNest is to create a reliable platform where families can find qualified help while service providers can connect with families looking for their services.
+The goal of EDENEST is to create a reliable platform where families can find qualified help while service providers can connect with families looking for their services.
 
 ## Development
 
