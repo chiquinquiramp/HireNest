@@ -1,8 +1,8 @@
-# HireNest
+# EDENEST
 
 **Trusted help for everyday life.**
 
-HireNest is a marketplace designed to connect families with trusted, verified domestic service providers in Miami, Florida.
+EDENEST is a marketplace designed to connect families with trusted, verified domestic service providers in Miami, Florida.
 
 The platform is being built to make finding reliable help for everyday needs easier, safer, and more transparent.
 
@@ -14,7 +14,7 @@ Families often have to rely on recommendations, scattered platforms, or incomple
 
 HireNest aims to bring the process into one place.
 
-## What HireNest Offers
+## What EDENEST Offers
 
 * Verified service providers
 * Search by location
@@ -44,7 +44,7 @@ HireNest aims to bring the process into one place.
 
 🚧 **In development**
 
-HireNest is currently being developed as a full-stack web application. The current focus is building the frontend structure, user experience, and core functionality.
+EDENEST is currently being developed as a full-stack web application. The current focus is building the frontend structure, user experience, and core functionality.
 
 Future development will include authentication, provider profiles, search and filtering, payments, messaging, and backend/database integration.
 
