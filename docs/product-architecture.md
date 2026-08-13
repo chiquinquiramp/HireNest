@@ -1,7 +1,7 @@
-# Hirenest Product Architecture
+# EDENEST Product Architecture
 ## Overview 
 
-HireNest is a verified domestic staffing Marketplace connecting families with trusted service providers.
+EDENEST is a verified domestic staffing Marketplace connecting families with trusted service providers.
 
 ## Users 
 
