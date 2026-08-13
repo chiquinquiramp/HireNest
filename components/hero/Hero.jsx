@@ -4,8 +4,8 @@ import HeroVisual from "./HeroVisual";
 function Hero () {
     return (
         <>
-        <h1>HireNest</h1>
-        <p>Trusted Help for Everyday Life</p>
+        <h1>EDENEST</h1>
+        <p>Where trust finds the right people.</p>
         
         <button type="button">Find Trusted Help</button>
         <button type="button">Find Opportunities</button>
